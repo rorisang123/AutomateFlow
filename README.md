@@ -1,4 +1,4 @@
-# RPA Testing (CMPG323)
+# RPA Testing (AutomateFlow)
 
 # Usage
 This is RPA Process built on the UiPath platform. It automates CRUD operations from an Excel document into a database interfaced on a azure.
